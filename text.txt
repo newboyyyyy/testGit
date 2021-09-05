@@ -1,1 +1,2 @@
 text.txt in master
+add by barnch new
